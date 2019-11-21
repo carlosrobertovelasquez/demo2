@@ -1,0 +1,2 @@
+version 1.0.0
+ Aqui se poner el primer ejecutable para los modulos de facturacion y cxc
